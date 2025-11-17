@@ -1,5 +1,5 @@
 # Janus
-> Janus can refer to the Roman god of beginnings, gates, and transitions, typically depicted with two faces one looking to the past and the other to the future.
+> Janus can refer to the Roman god of beginnings, gates, and transitions. Typically depicted with two faces, one looking to the past and the other to the future.
 > 
 > Forked from - https://github.com/grookage/leia
 
