@@ -1,13 +1,8 @@
-# Leia
+# Janus
+> Janus can refer to the Roman god of beginnings, gates, and transitions, typically depicted with two faces one looking to the past and the other to the future.
+> Forked from - https://github.com/grookage/leia
 
-> "Would it help if I got out and pushed?"
-> - Princess Leia to Han after the Millennium Falcon stalls while trying to escape Hoth.
-
-> Nomenclature, the other foundation of botany, should provide the names as soon as the classification is made… If the
-> names are unknown knowledge of the things also perishes… For a single genus, a single name.
-> - by Carl Linnaeus
-
-Leia is a governance and metadata framework aimed at meeting compliance requirements. It aims at providing
+Janus is a governance and metadata framework aimed at meeting compliance requirements. It aims at providing
 
 - A versioned schema registry, to register various schemas with all primitive and custom data-types, bound by a
   maker-checker process, with customizable RBAC.
